@@ -11,4 +11,4 @@ Short description:
 Description: 
 OS Version: macOS [version]
 Summary:
-- [ ] I agree that this is not a fake report.
+I agree that this is not a fake report.
