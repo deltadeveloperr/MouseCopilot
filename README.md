@@ -1,4 +1,6 @@
 # MouseCopilot
+<img src="https://github.com/deltadeveloperr/MouseCopilot/blob/main/Media/MouseCopilotArt.png" width="50%"/>
+
 Free and lightweight auto clicker software for macOS.
 ## What is MouseCopilot?
 MouseCopilot is a free, customizable auto clicker software designed for macOS, programmed in Python.
@@ -17,3 +19,7 @@ macOS 11.0.1 (Big Sur) and above versions that use Apple Silicon CPU.<br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Windows_logo_-_2021_%28White%29.svg" alt="Microsoft Windows Logo" width="5%" />
 Windows 10 and above --WORK IN PROGRESS--
+
+# Reporting issues
+If you encounter an error or bug, please create a new issue [here](https://github.com/deltadeveloperr/MouseCopilot/issues).
+Also, you can share your suggestions too.
